@@ -1,0 +1,9 @@
+usuario:
+  id: 1001
+  nombre: Carlos
+  empresa: LACNIC
+  rango: 
+    id: 2001
+    ipInicio: 100.242.124.1
+    ipFin: 200.242.124.255
+    descripcion: tengo ip
