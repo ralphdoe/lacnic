@@ -1,0 +1,11 @@
+{
+    "id": 123,
+    "nombre": "gerardo",
+    "empresa": "LACNIC",
+    "Rango": {
+      "id": 456,
+      "ipInicio": "192.80.1.20",
+      "ipFin": "192.1.120.2",
+      "descripcion": "Json deprueba"
+    }
+  }
