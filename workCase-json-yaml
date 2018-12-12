@@ -1,0 +1,16 @@
+{"id": 123, "nombre": "Fer", "empresa": "LACNIC", "Rango":{"id": 456 , "ipInicio":"192.80.1.20" , "ipFin": "192.1.120.2", "descripcion": "Json deprueba" }}
+
+
+Usuario:
+    id: 123
+    nombre: Fer
+    empresa: Lacnic
+    Rango: 
+        id: 456
+        ipInicio: 192.80.1.20
+        ipFin: 192.1.120.0
+        descripcion: yaml de prueba
+
+
+
+
