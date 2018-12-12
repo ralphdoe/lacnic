@@ -1,0 +1,13 @@
+[
+	usuario: {
+		"id": "25",
+		"nombre": "Pedro",
+		"empresa": "LACNIC",
+		"rango": {
+			"id": "365",
+			"ipInicio": "10.57.8.39",
+			"ipFin": "10.57.8.200",
+			"descripcion": "Rango asignado a usuario Pedro"
+		}
+	}
+]
