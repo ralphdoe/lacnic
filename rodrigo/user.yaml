@@ -1,0 +1,9 @@
+usuario:
+  id: UserUno
+  nombre: Rodrigo
+  empresa: LACNIC
+  rango: 
+    id: RangoUno
+    ipInicio: 192.168.1.1
+    ipFin: 192.168.255.255
+    descripcion: IPs Privadas

@@ -1,5 +1,13 @@
-
-{“id”:“UserUno”, “Nombre”:"Rodrigo", “Empresa”:"LACNIC"
-
-
-“id”: “RangoUno”, “ipInicio:"192.168.1.1", “ipFin:"192.168.255.255", “Descripcion":"IPs Privadas"}
+{
+	"usuario": {
+		"id": "UserUno",
+		"Nombre": "Rodrigo",
+		"Empresa": "LACNIC",
+		"Rango": {
+			"id": "RangoUno",
+			"ipInicio": "192.168.1.1",
+			"ipFin": "192.168.255.255",
+			"Descripcion": "IPs Privadas"
+		}
+	}
+}
