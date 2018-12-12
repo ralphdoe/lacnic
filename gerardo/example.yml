@@ -1,0 +1,9 @@
+usuario: 
+  empresa: LACNIC
+  id: 25
+  nombre: Pedro
+  rango: 
+    descripcion: "Rango asignado a usuario Pedro"
+    id: 356
+    ipFin: "10.57.8.200"
+    ipInicio: "10.57.8.39"
